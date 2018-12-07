@@ -1,0 +1,24 @@
+{
+  "name": "rsa-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hope410/rsa-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hope410/rsa-lab/issues"
+  },
+  "homepage": "https://github.com/Hope410/rsa-lab#readme",
+  "dependencies": {
+    "big-integer": "^1.6.40",
+    "node-rsa": "^1.0.1"
+  }
+}
